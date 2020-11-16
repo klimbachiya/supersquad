@@ -1,0 +1,21 @@
+body{
+    background-image: url('../download.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.App{
+    padding:5%;
+    text-align:center;
+    color:blue;
+}
+
+.line{
+    display:inline-block;
+}
+
+.box{
+    cursor:pointer;
+    float:right;
+}
