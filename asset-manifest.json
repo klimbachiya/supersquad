@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/supersquad/static/css/main.22ba6bb1.chunk.css",
+    "main.js": "/supersquad/static/js/main.e548c140.chunk.js",
+    "main.js.map": "/supersquad/static/js/main.e548c140.chunk.js.map",
+    "runtime-main.js": "/supersquad/static/js/runtime-main.9270db11.js",
+    "runtime-main.js.map": "/supersquad/static/js/runtime-main.9270db11.js.map",
+    "static/js/2.54afa5e0.chunk.js": "/supersquad/static/js/2.54afa5e0.chunk.js",
+    "static/js/2.54afa5e0.chunk.js.map": "/supersquad/static/js/2.54afa5e0.chunk.js.map",
+    "index.html": "/supersquad/index.html",
+    "static/css/main.22ba6bb1.chunk.css.map": "/supersquad/static/css/main.22ba6bb1.chunk.css.map",
+    "static/js/2.54afa5e0.chunk.js.LICENSE.txt": "/supersquad/static/js/2.54afa5e0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/supersquad/static/media/download.b36e0c7b.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9270db11.js",
+    "static/js/2.54afa5e0.chunk.js",
+    "static/css/main.22ba6bb1.chunk.css",
+    "static/js/main.e548c140.chunk.js"
+  ]
+}
